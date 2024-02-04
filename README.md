@@ -11,5 +11,5 @@ This repository contains a Streamlit app for analyzing Gurgaon real estate. The 
 To run the Streamlit app locally:<br>
 
 1. Clone the repository
-2. Install dependencies: pip install -r requirements.txt<br>
-3. Run the app: streamlit run app.py<br>
+2. Install dependencies: `pip install -r requirements.txt`<br>
+3. Run the app: `streamlit run app.py`<br>
