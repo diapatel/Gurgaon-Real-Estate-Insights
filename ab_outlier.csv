@@ -1,0 +1,143 @@
+,property_type,society,price,price_per_sqft,area,areaWithType,bedRoom,bathroom,balcony,floorNum,facing,sector,Study Room,Servant Room,Pooja Room,Others,Store Room,possession_category,furnishingType,super_builtup_area,builtup_area,carpet_area,luxury_score,area_to_bedroom_ratio
+3,house,,3.4,12937.595129375952,2628.0,Plot area 292(244.15 sq.m.),9.0,9.0,3,3.0,West,sector 9,,,,,,moderately old,1.0,,2628.0,,70.0,292.0
+8,house,,3.5,13409.961685823757,2610.0,Plot area 290(242.48 sq.m.),9.0,9.0,3+,3.0,North-East,sector 9,1.0,0.0,0.0,0.0,0.0,relatively new,0.0,,2610.0,,32.0,290.0
+9,house,,5.0,21123.78538234052,2367.0,Plot area 263(219.9 sq.m.),9.0,9.0,3+,3.0,North-West,sector 40,0.0,1.0,0.0,0.0,1.0,moderately old,1.0,,2367.0,,92.0,263.0
+49,house,huda sector-56 gurgaon,3.6,24844.72049689441,1449.0,Plot area 161(134.62 sq.m.),5.0,5.0,3+,3.0,North-East,sector 56,0.0,0.0,0.0,1.0,0.0,moderately old,0.0,,1449.0,,63.0,289.8
+65,house,,0.82,9111.11111111111,900.0,Plot area 100(83.61 sq.m.),4.0,3.0,3,2.0,North,sector 8,,,,,,moderately old,0.0,,900.0,,12.0,225.0
+98,house,IFFCO Nagar and 17B RWA,3.5,24305.555555555555,1440.0,Plot area 1440(133.78 sq.m.),6.0,5.0,3,3.0,East,sector 17,,,,,,old,0.0,,1440.0,,53.0,240.0
+99,house,Bhim Garh Kheri,0.75,6410.25641025641,1170.0,Plot area 130(108.7 sq.m.),4.0,2.0,2,2.0,West,sector 3,,,,,,old,0.0,,1170.0,,16.0,292.5
+101,house,,0.92,15257.048092868989,603.0,Built Up area: 603 (56.02 sq.m.),4.0,1.0,No,1.0,,sector 3,,,,,,,0.0,,602.993678,,0.0,150.75
+102,house,Surendra Homes Dayanand Colony,0.75,15625.0,480.0,Built Up area: 480 (44.59 sq.m.),4.0,4.0,2,1.0,,sector 6,,,,,,,0.0,,479.962301,,0.0,120.0
+115,house,Bhim Garh Kheri,1.5,7575.757575757576,1980.0,Plot area 220(183.95 sq.m.),7.0,2.0,No,1.0,,sector 3,,,,,,,0.0,,1980.0,,0.0,282.85714285714283
+119,house,HUDA Housing Board Colony4.1 ★,4.6,31506.84931506849,1460.0,Plot area 1460(135.64 sq.m.),6.0,4.0,3+,3.0,East,sector 31,0.0,0.0,0.0,1.0,0.0,old,0.0,,1460.0,,8.0,243.33333333333334
+120,house,,3.5,24305.555555555555,1440.0,Built Up area: 160 (14.86 sq.m.),6.0,6.0,3+,3.0,North-West,sector 17,,,,,,,0.0,,1439.563986,,0.0,240.0
+127,house,Huda Flats,2.3,17037.037037037036,1350.0,Plot area 150(125.42 sq.m.),5.0,3.0,3+,3.0,North-East,sector 7,1.0,1.0,1.0,0.0,0.0,old,0.0,,1350.0,,27.0,270.0
+129,house,,4.3,29311.52010906612,1467.0,Plot area 163(136.29 sq.m.),6.0,4.0,2,2.0,,sector 47,0.0,0.0,0.0,1.0,0.0,moderately old,0.0,,1467.0,,0.0,244.5
+130,house,Sai Kripa Floors 5,0.9,11250.0,800.0,Plot area 800(74.32 sq.m.),5.0,5.0,3,3.0,,sector 11,,,,,,relatively new,0.0,,800.0,,0.0,160.0
+142,house,,2.25,16891.891891891893,1332.0,Built Up area: 148 (123.75 sq.m.),5.0,3.0,No,2.0,,sector 7,,,,,,,0.0,,1332.032625,,0.0,266.4
+156,house,,1.85,16003.460207612456,1156.0,Carpet area: 1156 (107.4 sq.m.),4.0,3.0,2,3.0,,sector 1,,,,,,,0.0,,,1156.04286,0.0,289.0
+161,house,,0.75,10518.934081346424,713.0,Plot area 713(66.24 sq.m.),6.0,4.0,1,3.0,,sector 6,,,,,,moderately old,0.0,,713.0,,71.0,118.83333333333333
+163,house,SS Omnia,0.42,9333.333333333334,450.0,Plot area 50(4.65 sq.m.),5.0,3.0,2,3.0,,sector 86,,,,,,relatively new,0.0,,450.0,,0.0,90.0
+165,house,,3.5,15555.555555555557,2250.0,Built Up area: 2250 (209.03 sq.m.),10.0,1.0,No,1.0,,sector 11,,,,,,new,0.0,,2249.978017,,0.0,225.0
+168,house,Sheetla Enclave,0.96,10000.0,960.0,Plot area 945(87.79 sq.m.),7.0,4.0,2,3.0,,sector 5,0.0,0.0,1.0,0.0,1.0,moderately old,1.0,,945.0,,0.0,137.14285714285714
+178,house,,0.8,8154.943934760448,981.0,Plot area 109(91.14 sq.m.),5.0,4.0,1,2.0,,sector 3,,,,,,moderately old,0.0,,981.0,,0.0,196.2
+181,house,,0.59,10085.470085470086,585.0,Plot area 585(54.35 sq.m.),2.0,2.0,2,2.0,,sector 8,0.0,0.0,0.0,1.0,0.0,moderately old,0.0,,585.0,,7.0,292.5
+192,house,,0.6,11111.111111111111,540.0,Plot area 60(50.17 sq.m.),8.0,4.0,3,3.0,West,sector 105,,,,,,new,0.0,,540.0,,17.0,67.5
+197,house,,4.49,24455.337690631808,1836.0,Plot area 204(170.57 sq.m.),9.0,9.0,3+,3.0,North-West,sector 45,0.0,0.0,0.0,1.0,0.0,moderately old,1.0,,1836.0,,108.0,204.0
+227,house,Unitech South City 23.8 ★,5.88,27222.222222222223,2160.0,Plot area 240(200.67 sq.m.),9.0,9.0,3+,3.0,East,sector 50,1.0,1.0,1.0,1.0,0.0,relatively new,2.0,,2160.0,,161.0,240.0
+231,house,,4.35,23692.81045751634,1836.0,Plot area 204(170.57 sq.m.),8.0,8.0,2,3.0,North-East,sector 46,1.0,0.0,1.0,0.0,0.0,relatively new,1.0,,1836.0,,19.0,229.5
+240,house,,3.7,25534.851621808142,1449.0,Plot area 161(134.62 sq.m.),8.0,8.0,2,4.0,North-East,sector 57,0.0,0.0,1.0,0.0,0.0,new,1.0,,1449.0,,58.0,181.125
+242,house,,3.6,19607.843137254906,1836.0,Plot area 204(170.57 sq.m.),8.0,4.0,3,3.0,North,sector 10a,0.0,0.0,1.0,0.0,0.0,moderately old,1.0,,1836.0,,35.0,229.5
+255,house,,5.15,26614.98708010336,1935.0,Plot area 215(179.77 sq.m.),9.0,9.0,3+,3.0,East,sector 47,0.0,0.0,0.0,0.0,1.0,relatively new,1.0,,1935.0,,82.0,215.0
+279,house,,2.7,18620.689655172413,1450.0,Plot area 1450(134.71 sq.m.),5.0,5.0,2,3.0,East,sector 23,,,,,,old,1.0,,1450.0,,17.0,290.0
+292,house,,4.25,31481.48148148148,1350.0,Plot area 163(136.29 sq.m.)Built Up area: 161 sq.yards (134.62 sq.m.)Carpet area: 150 sq.yards (125.42 sq.m.),5.0,5.0,3+,3.0,East,sector 27,0.0,1.0,1.0,0.0,0.0,relatively new,1.0,,1467.0,1350.0,58.0,270.0
+316,house,Ansal Sushant Lok 2,3.4,22222.222222222223,1530.0,Plot area 170(142.14 sq.m.),6.0,6.0,3+,2.0,West,sector 56,,,,,,moderately old,1.0,,1530.0,,38.0,255.0
+317,house,,1.45,12393.162393162393,1170.0,Plot area 130(108.7 sq.m.)Built Up area: 130 sq.yards (108.7 sq.m.)Carpet area: 100 sq.yards (83.61 sq.m.),4.0,4.0,2,2.0,North,sector 15,0.0,0.0,0.0,1.0,0.0,old,0.0,,1170.0,100.0,13.0,292.5
+340,house,Sector 57 Huda,3.8,26063.10013717421,1458.0,Plot area 162(135.45 sq.m.)Built Up area: 162 sq.yards (135.45 sq.m.)Carpet area: 160 sq.yards (133.78 sq.m.),8.0,8.0,3+,4.0,East,sector 57,0.0,0.0,1.0,0.0,1.0,relatively new,1.0,,1458.0,1440.0,112.0,182.25
+347,house,Sector 38 RWA,4.3,28781.793842034807,1494.0,Plot area 166(138.8 sq.m.)Built Up area: 165 sq.yards (137.96 sq.m.)Carpet area: 164 sq.yards (137.12 sq.m.),9.0,9.0,3+,3.0,East,sector 38,0.0,0.0,1.0,1.0,0.0,relatively new,1.0,,1494.0,1476.0,50.0,166.0
+349,house,,5.0,44444.444444444445,1125.0,Plot area 125(104.52 sq.m.)Built Up area: 115 sq.yards (96.15 sq.m.)Carpet area: 100 sq.yards (83.61 sq.m.),9.0,9.0,3+,5.0,East,sector 55,0.0,0.0,0.0,1.0,0.0,new,2.0,,1125.0,900.0,53.0,125.0
+350,house,IFFCO Nagar and 17B RWA,2.98,20565.90752242926,1449.0,Plot area 161(134.62 sq.m.),6.0,6.0,3+,3.0,East,sector 17,1.0,0.0,1.0,0.0,0.0,relatively new,0.0,,1449.0,,103.0,241.5
+351,house,Huda Floor,4.0,22222.222222222223,1800.0,Plot area 1800(167.23 sq.m.)Built Up area: 4800 sq.ft. (445.93 sq.m.)Carpet area: 3800 sq.ft. (353.03 sq.m.),9.0,9.0,3+,2.0,East,sector 38,0.0,0.0,1.0,0.0,1.0,relatively new,2.0,,1800.0,3800.0,193.0,200.0
+355,house,,5.0,21123.78538234052,2367.0,Plot area 263(219.9 sq.m.),9.0,9.0,3+,3.0,South-East,sector 40,0.0,0.0,1.0,0.0,0.0,relatively new,1.0,,2367.0,,75.0,263.0
+359,house,,3.55,24499.65493443754,1449.0,Plot area 161(134.62 sq.m.),5.0,4.0,3+,3.0,North-West,sector 46,0.0,1.0,0.0,0.0,0.0,moderately old,1.0,,1449.0,,73.0,289.8
+360,house,,3.6,24844.72049689441,1449.0,Plot area 161(134.62 sq.m.),5.0,5.0,3+,3.0,South-East,sector 46,0.0,1.0,0.0,0.0,0.0,moderately old,1.0,,1449.0,,84.0,289.8
+383,flat,The Serenas,0.42,7909.604519774011,531.0,Carpet area: 531 (49.33 sq.m.),2.0,2.0,1,3.0,,sector 36,,,,,,,0.0,,,530.9831869999999,0.0,265.5
+416,flat,Ramsons Kshitij3.7,0.29,5178.571428571428,560.0,Super Built up area 560(52.03 sq.m.),2.0,2.0,2,14.0,,sector 95,,,,,,relatively new,0.0,560.0,,,65.0,280.0
+419,flat,Pareena Laxmi Apartments3.6,0.3175,5521.739130434783,575.0,Super Built up area 575(53.42 sq.m.)Carpet area: 570.17 sq.ft. (52.97 sq.m.),2.0,2.0,1,2.0,,sector 99a,,,,,,new,0.0,575.0,,570.17,65.0,287.5
+447,flat,Pareena Laxmi Apartments3.6,0.32,6106.8702290076335,524.0,Super Built up area 524(48.68 sq.m.)Carpet area: 424.8 sq.ft. (39.47 sq.m.),2.0,2.0,2,2.0,,sector 99a,,,,,,new,0.0,524.0,,424.8,63.0,262.0
+448,flat,Pyramid Elite,0.45,7745.26678141136,581.0,Carpet area: 581.41 (54.01 sq.m.),2.0,2.0,1,4.0,,sector 86,,,,,,new,0.0,,,581.3582389999999,96.0,290.5
+454,flat,Czar Mahira Homes 63A,0.42,7407.407407407408,567.0,Carpet area: 567 (52.68 sq.m.),3.0,2.0,2,,,sector 63a,,,,,,,0.0,,,567.042252,0.0,189.0
+481,flat,Pyramid Urban Homes 2,0.5,9615.384615384615,520.0,Carpet area: 520 (48.31 sq.m.),2.0,2.0,1,10.0,,sector 86,,,,,,relatively new,0.0,,,520.004009,22.0,260.0
+485,flat,Signature Signum 95A,0.4,7782.101167315175,514.0,Carpet area: 514 (47.75 sq.m.),2.0,2.0,2,3.0,East,sector 95,,,,,,new,1.0,,,513.976225,51.0,257.0
+518,flat,Supertech Basera,0.36,7643.3121019108285,471.0,Built Up area: 546 (50.73 sq.m.)Carpet area: 471 sq.ft. (43.76 sq.m.),2.0,2.0,1,4.0,,sector 79,,,,,,new,0.0,,546.052647,471.0,89.0,235.5
+520,flat,M3M Soulitude,1.32,16923.076923076922,780.0,Carpet area: 780 (72.46 sq.m.),3.0,3.0,3,1.0,,sector 89,,,,,,new,0.0,,,779.9521939999998,73.0,260.0
+531,flat,Zara Aavaas,0.4,7029.8769771529,569.0,Super Built up area 568.46(52.81 sq.m.),2.0,2.0,1,4.0,North,sector 104,,,,,,relatively new,0.0,568.0,,,59.0,284.5
+546,flat,Pivotal Devaan,0.41,7032.590051457975,583.0,Super Built up area 583(54.16 sq.m.)Built Up area: 565 sq.ft. (52.49 sq.m.)Carpet area: 483 sq.ft. (44.87 sq.m.),2.0,2.0,2,10.0,East,sector 84,,,,,,new,1.0,583.0,565.0,483.0,30.0,291.5
+826,flat,Signature Global Solera3.7,0.27,5521.472392638037,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,,North-East,sector 107,,,,,,relatively new,0.0,,,489.003977,69.0,244.5
+827,flat,Signature Global Solera3.7,0.2775,5674.846625766872,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,6.0,West,sector 107,,,,,,relatively new,0.0,,,489.003977,69.0,244.5
+882,flat,Emaar MGF Emerald Estate3.8,1.7,21013.59703337453,809.0,Super Built up area 1395(129.6 sq.m.)Carpet area: 809 sq.ft. (75.16 sq.m.),3.0,3.0,3,7.0,South-East,sector 65,1.0,0.0,0.0,0.0,0.0,relatively new,1.0,1395.0,,809.0,154.0,269.6666666666667
+964,flat,Signature Global Solera3.7,0.5,7751.937984496124,645.0,Carpet area: 645 (59.92 sq.m.),3.0,2.0,2,6.0,South-East,sector 107,0.0,0.0,0.0,1.0,0.0,relatively new,0.0,,,644.972888,22.0,215.0
+965,flat,Signature Global Solera3.7,0.52,8062.015503875969,645.0,Carpet area: 645 (59.92 sq.m.),3.0,2.0,2,5.0,East,sector 107,0.0,0.0,0.0,1.0,0.0,relatively new,0.0,,,644.972888,22.0,215.0
+966,flat,Signature Global Solera3.7,0.28,5725.97137014315,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,6.0,West,sector 107,,,,,,relatively new,0.0,,,489.003977,69.0,244.5
+967,flat,Signature Global Solera3.7,0.29,5930.470347648262,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,3.0,East,sector 107,,,,,,relatively new,0.0,,,489.003977,69.0,244.5
+1029,flat,Prime Habitat,0.271,6049.107142857143,448.0,Carpet area: 448 (41.62 sq.m.),2.0,2.0,1,10.0,South,sector 99a,,,,,,relatively new,0.0,,,447.993518,89.0,224.0
+1148,flat,Pyramid Urban Homes 2,0.415,8283.433133732535,501.0,Carpet area: 501 (46.54 sq.m.),2.0,2.0,1,7.0,West,sector 86,1.0,1.0,1.0,1.0,0.0,new,0.0,,,500.951906,56.0,250.5
+1207,flat,Mapsko Mount Ville4.1,1.1,12731.481481481482,864.0,Super Built up area 1490(138.43 sq.m.)Carpet area: 863.91 sq.ft. (80.26 sq.m.),3.0,3.0,3,22.0,South-West,sector 79,1.0,0.0,1.0,0.0,0.0,relatively new,1.0,1490.0,,863.91,198.0,288.0
+1214,flat,Mapsko Mount Ville4.1,1.2,13840.83044982699,867.0,Super Built up area 1510(140.28 sq.m.)Carpet area: 867.24 sq.ft. (80.57 sq.m.),3.0,3.0,3,18.0,North,sector 79,1.0,0.0,1.0,0.0,0.0,relatively new,1.0,1510.0,,867.24,207.0,289.0
+1314,flat,Pivotal Devaan,0.35,6003.430531732419,583.0,Super Built up area 583(54.16 sq.m.),2.0,2.0,1,4.0,East,sector 84,,,,,,relatively new,0.0,583.0,,,44.0,291.5
+1359,flat,Signature Global Solera3.7,0.5,7751.937984496124,645.0,Carpet area: 645 (59.92 sq.m.),3.0,2.0,2,6.0,North-East,sector 107,0.0,0.0,0.0,1.0,0.0,relatively new,0.0,,,644.972888,56.0,215.0
+1362,flat,ROF Ananda,0.31,5646.630236794172,549.0,Carpet area: 549.16 (51.02 sq.m.),2.0,2.0,1,5.0,North,sector 95,0.0,0.0,1.0,0.0,0.0,relatively new,1.0,,,549.174178,98.0,274.5
+1367,flat,Signature Global Solera3.7,0.285,5828.220858895705,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,,North-East,sector 107,,,,,,relatively new,0.0,,,489.003977,52.0,244.5
+1368,flat,Signature Global Solera3.7,0.2775,5674.846625766872,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,11.0,North,sector 107,,,,,,relatively new,0.0,,,489.003977,44.0,244.5
+1369,flat,Signature Global Solera3.7,0.275,5623.721881390593,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,14.0,North-West,sector 107,,,,,,relatively new,0.0,,,489.003977,53.0,244.5
+1370,flat,Signature Global Solera3.7,0.28,5725.97137014315,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,10.0,South,sector 107,,,,,,relatively new,0.0,,,489.003977,53.0,244.5
+1372,flat,Signature Global Solera3.7,0.355,6489.945155393053,547.0,Carpet area: 547 (50.82 sq.m.),2.0,2.0,2,8.0,North-West,sector 107,,,,,,relatively new,0.0,,,547.021398,69.0,273.5
+1373,flat,Signature Global Solera3.7,0.51,7906.976744186047,645.0,Carpet area: 645 (59.92 sq.m.),3.0,2.0,2,9.0,South,sector 107,0.0,0.0,0.0,1.0,0.0,relatively new,0.0,,,644.972888,22.0,215.0
+1374,flat,Signature Global Solera3.7,0.35,6398.53747714808,547.0,Carpet area: 547 (50.82 sq.m.),2.0,2.0,2,8.0,South,sector 107,,,,,,relatively new,0.0,,,547.021398,69.0,273.5
+1375,flat,Signature Global Solera3.7,0.285,5828.220858895705,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,11.0,South,sector 107,,,,,,relatively new,0.0,,,489.003977,69.0,244.5
+1376,flat,Signature Global Solera3.7,0.36,6581.352833638026,547.0,Carpet area: 547 (50.82 sq.m.),2.0,2.0,2,8.0,South-East,sector 107,,,,,,relatively new,0.0,,,547.021398,69.0,273.5
+1384,flat,Tulip Lemon3.9,0.62,12863.070539419086,482.0,Carpet area: 482 (44.78 sq.m.),2.0,2.0,1,4.0,North-East,sector 69,,,,,,relatively new,1.0,,,482.007442,163.0,241.0
+1431,flat,Conscient Habitat3.6,0.271,5599.173553719008,484.0,Carpet area: 484 (44.97 sq.m.),2.0,2.0,1,8.0,South-West,sector 99a,0.0,0.0,0.0,1.0,0.0,relatively new,0.0,,,484.052583,56.0,242.0
+1432,flat,Prime Habitat,0.261,4745.454545454545,550.0,Carpet area: 550 (51.1 sq.m.),2.0,2.0,1,6.0,North-East,sector 99a,0.0,0.0,0.0,1.0,0.0,relatively new,0.0,,,550.03529,110.0,275.0
+1469,flat,Pivotal Devaan,0.365,7588.357588357589,481.0,Super Built up area 583(54.16 sq.m.)Carpet area: 481 sq.ft. (44.69 sq.m.),2.0,2.0,1,9.0,West,sector 84,0.0,0.0,0.0,0.0,1.0,relatively new,2.0,583.0,,481.0,102.0,240.5
+1470,flat,Pivotal Devaan,0.34,7039.337474120084,483.0,Carpet area: 483 (44.87 sq.m.),2.0,2.0,1,1.0,East,sector 84,0.0,0.0,0.0,0.0,1.0,relatively new,1.0,,,482.976193,123.0,241.5
+1471,flat,Pivotal Devaan,0.34,5831.903945111493,583.0,Super Built up area 583(54.16 sq.m.)Carpet area: 484 sq.ft. (44.97 sq.m.),2.0,2.0,1,3.0,East,sector 84,0.0,0.0,0.0,0.0,1.0,relatively new,0.0,583.0,,484.0,114.0,291.5
+1472,flat,Pivotal Devaan,0.35,7276.507276507276,481.0,Super Built up area 583(54.16 sq.m.)Carpet area: 481 sq.ft. (44.69 sq.m.),2.0,2.0,1,10.0,West,sector 84,0.0,0.0,0.0,0.0,1.0,relatively new,0.0,583.0,,481.0,125.0,240.5
+1533,flat,ROF Ananda,0.37,5745.341614906833,644.0,Carpet area: 644.12 (59.84 sq.m.),3.0,2.0,1,6.0,South-East,sector 95,0.0,0.0,1.0,0.0,0.0,relatively new,1.0,,,644.111776,96.0,214.66666666666666
+1534,flat,ROF Ananda,0.38,5900.621118012423,644.0,Carpet area: 644.12 (59.84 sq.m.),3.0,2.0,1,2.0,South-East,sector 95,0.0,0.0,1.0,0.0,0.0,relatively new,1.0,,,644.111776,90.0,214.66666666666666
+1535,flat,ROF Ananda,0.32,5828.779599271403,549.0,Carpet area: 549.16 (51.02 sq.m.),2.0,2.0,1,9.0,North,sector 95,0.0,0.0,1.0,0.0,0.0,relatively new,1.0,,,549.174178,95.0,274.5
+1536,flat,ROF Ananda,0.315,5737.704918032787,549.0,Carpet area: 549.16 (51.02 sq.m.),2.0,2.0,1,10.0,North,sector 95,0.0,0.0,1.0,0.0,0.0,relatively new,1.0,,,549.174178,74.0,274.5
+1546,flat,Suncity Avenue 1023.9,0.475,8928.57142857143,532.0,Super Built up area 632(58.71 sq.m.)Carpet area: 532 sq.ft. (49.42 sq.m.),2.0,2.0,1,5.0,South-East,sector 102,0.0,0.0,0.0,0.0,1.0,relatively new,0.0,632.0,,532.0,198.0,266.0
+1574,flat,Suncity Avenue 1023.9,0.48,9022.556390977445,532.0,Super Built up area 632(58.71 sq.m.)Carpet area: 532 sq.ft. (49.42 sq.m.),2.0,2.0,1,5.0,North-East,sector 102,0.0,0.0,0.0,0.0,1.0,relatively new,0.0,632.0,,532.0,222.0,266.0
+1590,flat,Pyramid Urban Homes 2,0.43,8582.834331337326,501.0,Carpet area: 501 (46.54 sq.m.),2.0,2.0,1,6.0,North-East,sector 86,1.0,0.0,0.0,0.0,0.0,new,0.0,,,500.951906,108.0,250.5
+1601,flat,Pyramid Urban Homes 2,0.43,8582.834331337326,501.0,Carpet area: 501 (46.54 sq.m.),2.0,2.0,1,6.0,North-East,sector 86,0.0,0.0,0.0,1.0,0.0,new,0.0,,,500.951906,85.0,250.5
+1613,flat,Pyramid Urban Homes 2,0.425,8483.033932135728,501.0,Carpet area: 501 (46.54 sq.m.),2.0,2.0,1,2.0,North-East,sector 86,1.0,1.0,1.0,1.0,0.0,new,0.0,,,500.951906,100.0,250.5
+1719,flat,Signature Global Orchard Avenue3.6,0.365,6709.558823529412,544.0,Carpet area: 543.53 (50.5 sq.m.),2.0,2.0,2,6.0,North,sector 93,,,,,,relatively new,0.0,,,543.57695,46.0,272.0
+1761,flat,Pyramid Urban,0.62,11854.6845124283,523.0,Carpet area: 523 (48.59 sq.m.),2.0,2.0,2,2.0,South,sector 67a,,,,,,relatively new,0.0,,,523.017901,113.0,261.5
+1762,flat,Pyramid Urban,0.55,10516.25239005736,523.0,Carpet area: 523 (48.59 sq.m.),2.0,2.0,2,3.0,South-West,sector 67a,,,,,,relatively new,0.0,,,523.017901,113.0,261.5
+1771,flat,Signature Global Solera3.7,0.36,6569.343065693431,548.0,Super Built up area 548(50.91 sq.m.),2.0,2.0,1,9.0,South,sector 107,,,,,,relatively new,0.0,548.0,,,35.0,274.0
+1772,flat,Signature Global Solera3.7,0.37,6751.824817518248,548.0,Super Built up area 548(50.91 sq.m.),2.0,2.0,1,10.0,South,sector 107,,,,,,relatively new,0.0,548.0,,,102.0,274.0
+1819,flat,GLS Avenue 51,0.39,6074.7663551401865,642.0,Carpet area: 641.74 (59.62 sq.m.),3.0,3.0,3+,6.0,North,sector 92,,,,,,relatively new,0.0,,,641.743718,134.0,214.0
+1884,flat,Pivotal Devaan,0.37,6346.483704974271,583.0,Super Built up area 583(54.16 sq.m.)Carpet area: 483 sq.ft. (44.87 sq.m.),2.0,2.0,1,5.0,North-West,sector 84,,,,,,relatively new,0.0,583.0,,483.0,103.0,291.5
+2007,flat,Signature Global Solera3.7,0.3,6134.969325153375,489.0,Super Built up area 602(55.93 sq.m.)Carpet area: 489 sq.ft. (45.43 sq.m.),2.0,2.0,1,5.0,East,sector 107,,,,,,relatively new,0.0,602.0,,489.0,64.0,244.5
+2079,flat,Ansal API Sushant Estate4.1,0.29,11600.0,250.0,Carpet area: 250 (23.23 sq.m.),1.0,1.0,0,,,sector 52,,,,,,moderately old,1.0,,,250.045397,56.0,250.0
+2082,flat,GLS Avenue 51,0.5,7812.5,640.0,Super Built up area 640(59.46 sq.m.),3.0,3.0,1,,,sector 92,,,,,,relatively new,0.0,640.0,,,0.0,213.33333333333334
+2087,flat,GLS Avenue 51,0.42,6562.5,640.0,Carpet area: 640 (59.46 sq.m.),3.0,3.0,1,2.0,,sector 92,,,,,,relatively new,0.0,,,640.021494,27.0,213.33333333333334
+2092,flat,Signature Global City,0.68,11724.137931034484,580.0,Carpet area: 580 (53.88 sq.m.),2.0,2.0,3,9.0,,sector 37d,0.0,0.0,0.0,1.0,0.0,new,0.0,,,579.958932,79.0,290.0
+2097,flat,ROF Aalayas3.8,0.45,8411.214953271028,535.0,Super Built up area 597(55.46 sq.m.)Carpet area: 535.4 sq.ft. (49.74 sq.m.),2.0,2.0,1,14.0,North,sector 102,,,,,,relatively new,2.0,597.0,,535.4,70.0,267.5
+2113,flat,GLS Avenue 51,0.5,7812.5,640.0,Carpet area: 640 (59.46 sq.m.),3.0,3.0,1,12.0,,sector 92,,,,,,new,2.0,,,640.021494,133.0,213.33333333333334
+2127,flat,Signature Global The Millennia 3,0.5,7142.857142857143,700.0,Carpet area: 700 (65.03 sq.m.),3.0,3.0,2,2.0,,sector 37d,,,,,,new,0.0,,,699.976417,38.0,233.33333333333334
+2135,flat,Laxmi pareena,0.3,6666.666666666667,450.0,Carpet area: 450 (41.81 sq.m.),2.0,1.0,0,12.0,North,sector 99a,,,,,,,0.0,,,450.038659,0.0,225.0
+2156,flat,Pareena Laxmi Apartments3.6,0.31,5904.761904761905,525.0,Carpet area: 525 (48.77 sq.m.),2.0,2.0,2,6.0,East,sector 99a,,,,,,new,0.0,,,524.955403,105.0,262.5
+2166,flat,Signature The Roselia3.6,0.415,7293.497363796134,569.0,Built Up area: 670 (62.25 sq.m.)Carpet area: 569 sq.ft. (52.86 sq.m.),2.0,2.0,2,12.0,South,sector 95,,,,,,new,1.0,,670.052775,569.0,124.0,284.5
+2172,flat,Tulip Lemon3.9,0.6,11406.84410646388,526.0,Carpet area: 526 (48.87 sq.m.),2.0,1.0,1,11.0,,sector 69,,,,,,,0.0,,,526.031793,0.0,263.0
+2181,flat,RWA,0.48,6000.0,800.0,Carpet area: 800 (74.32 sq.m.),3.0,2.0,1,1.0,North-East,sector 7,,,,,,new,0.0,,,799.973048,28.0,266.6666666666667
+2291,flat,Pivotal Devaan,0.35,7246.376811594203,483.0,Carpet area: 483 (44.87 sq.m.),2.0,2.0,2,4.0,East,sector 84,,,,,,relatively new,0.0,,,482.976193,44.0,241.5
+2351,flat,Signature Global Park 4,0.85,11333.333333333334,750.0,Carpet area: 750 (69.68 sq.m.),3.0,2.0,3,1.0,,sector 36,,,,,,new,0.0,,,750.028552,40.0,250.0
+2374,flat,ROF Ananda,0.55,8527.131782945737,645.0,Super Built up area 1000(92.9 sq.m.)Carpet area: 645 sq.ft. (59.92 sq.m.),3.0,2.0,2,14.0,East,sector 95,1.0,0.0,0.0,0.0,0.0,new,1.0,1000.0,,645.0,88.0,215.0
+2418,flat,Signature Global Solera3.7,0.6,8000.0,750.0,Built Up area: 750 (69.68 sq.m.)Carpet area: 650 sq.ft. (60.39 sq.m.),3.0,2.0,2,8.0,,sector 107,,,,,,,0.0,,750.028552,650.0,0.0,250.0
+2430,flat,Signature Global Synera3.4,0.48,8450.704225352112,568.0,Super Built up area 657(61.04 sq.m.)Carpet area: 568 sq.ft. (52.77 sq.m.),2.0,2.0,1,7.0,South-East,sector 81,,,,,,relatively new,1.0,657.0,,568.0,95.0,284.0
+2439,flat,Aashirwad Residency,0.9,11250.0,800.0,Carpet area: 800 (74.32 sq.m.),3.0,2.0,2,4.0,,sector 5,0.0,0.0,0.0,1.0,0.0,moderately old,0.0,,,799.973048,36.0,266.6666666666667
+2444,flat,Pyramid Urban Homes 2,0.5,9689.922480620156,516.0,Carpet area: 515.57 (47.9 sq.m.),2.0,2.0,2,6.0,,sector 86,,,,,,old,0.0,,,515.5908099999999,22.0,258.0
+2449,flat,Signature Global Solera 2,0.5,8928.57142857143,560.0,Carpet area: 560 (52.03 sq.m.),2.0,2.0,2,13.0,,sector 107,,,,,,new,0.0,,,560.045717,15.0,280.0
+2460,flat,Breez Global Heights 88A,0.5,8375.209380234506,597.0,Carpet area: 597 (55.46 sq.m.),3.0,2.0,2,2.0,,sector 88a,,,,,,new,0.0,,,596.9658939999999,28.0,199.0
+2474,flat,Pyramid Urban Homes 2,0.6,8000.0,750.0,Carpet area: 750 (69.68 sq.m.),3.0,2.0,2,2.0,East,sector 86,,,,,,new,0.0,,,750.028552,20.0,250.0
+2502,flat,Zara Aavaas,0.4,7029.8769771529,569.0,Super Built up area 569(52.86 sq.m.),2.0,2.0,1,14.0,,sector 104,,,,,,relatively new,0.0,569.0,,,51.0,284.5
+2514,flat,M3M Soulitude,1.33,16985.95146871009,783.0,Built Up area: 1423 (132.2 sq.m.)Carpet area: 783 sq.ft. (72.74 sq.m.),3.0,3.0,3,4.0,North-West,sector 89,1.0,0.0,0.0,0.0,0.0,new,0.0,,1422.9875799999998,783.0,172.0,261.0
+2517,flat,Conscient Habitat3.6,0.35,6422.018348623853,545.0,Carpet area: 545 (50.63 sq.m.),2.0,2.0,1,3.0,North-East,sector 99a,,,,,,relatively new,0.0,,,544.976257,69.0,272.5
+2530,flat,Zara Aavaas,0.65,8519.003931847968,763.0,Carpet area: 763 (70.89 sq.m.),3.0,2.0,2,7.0,,sector 104,,,,,,new,0.0,,,763.052871,86.0,254.33333333333334
+2559,flat,Ramsons Kshitij3.7,0.4,5839.41605839416,685.0,Carpet area: 685 (63.64 sq.m.),3.0,2.0,2,6.0,,sector 95,,,,,,,0.0,,,685.014596,0.0,228.33333333333334
+2573,flat,Signature The Roselia3.6,0.45,7908.611599297013,569.0,Carpet area: 569 (52.86 sq.m.),2.0,2.0,2,2.0,East,sector 95,,,,,,new,1.0,,,568.979754,38.0,284.5
+2580,flat,Signature Global Orchard Avenue3.6,0.4,7352.941176470588,544.0,Carpet area: 543.53 (50.5 sq.m.),2.0,2.0,2,11.0,,sector 93,,,,,,new,0.0,,,543.57695,44.0,272.0
+2583,flat,Signature Global Solera 2,0.37,6678.70036101083,554.0,Carpet area: 553.85 (51.45 sq.m.),2.0,2.0,2,9.0,,sector 107,,,,,,new,0.0,,,553.802655,44.0,277.0
+2616,flat,GLS Avenue 51,0.45,6000.0,750.0,Carpet area: 750 (69.68 sq.m.),3.0,3.0,1,10.0,North-East,sector 92,,,,,,relatively new,0.0,,,750.028552,0.0,250.0
+2667,flat,Signature Global City 81,0.8,14652.014652014652,546.0,Carpet area: 546 (50.73 sq.m.),2.0,2.0,2,4.0,North,sector 81,1.0,0.0,0.0,0.0,0.0,new,0.0,,,546.052647,43.0,273.0
+2689,flat,Pivotal Riddhi Siddhi,0.5,8517.887563884156,587.0,Carpet area: 587 (54.53 sq.m.),2.0,1.0,2,7.0,,sector 99,,,,,,new,0.0,,,586.955467,31.0,293.5
+2719,flat,Zara Aavaas,0.49,6577.181208053691,745.0,Super Built up area 745(69.21 sq.m.)Carpet area: 645 sq.ft. (59.92 sq.m.),3.0,2.0,2,7.0,,sector 104,,,,,,new,0.0,745.0,,645.0,120.0,248.33333333333334
+2732,flat,Pareena Laxmi Apartments3.6,0.3,5424.9547920434,553.0,Super Built up area 553(51.38 sq.m.)Carpet area: 470 sq.ft. (43.66 sq.m.),2.0,1.0,2,5.0,North,sector 99a,,,,,,new,0.0,553.0,,470.0,79.0,276.5
+2741,flat,Pareena Laxmi Apartments3.6,0.32,5786.618444846293,553.0,Super Built up area 553(51.38 sq.m.)Carpet area: 453.5 sq.ft. (42.13 sq.m.),2.0,2.0,2,11.0,,sector 99a,,,,,,new,0.0,553.0,,453.5,79.0,276.5
+2743,flat,Pyramid Elite,0.45,7839.721254355401,574.0,Carpet area: 573.54 (53.28 sq.m.),2.0,2.0,1,12.0,,sector 86,,,,,,new,0.0,,,573.500592,43.0,287.0
+2745,flat,signature global rosellia,0.45,8754.863813229573,514.0,Carpet area: 514 (47.75 sq.m.),2.0,2.0,2,14.0,,sector 95,,,,,,new,0.0,,,513.976225,31.0,257.0
+2751,flat,ROF Ananda,0.38,6921.67577413479,549.0,Carpet area: 549.17 (51.02 sq.m.),2.0,2.0,1,4.0,,sector 95,,,,,,new,0.0,,,549.174178,0.0,274.5
+2753,flat,Uphaar Residency 2,0.42,5600.0,750.0,Carpet area: 750 (69.68 sq.m.),3.0,2.0,1,,East,sector 105,0.0,0.0,0.0,1.0,0.0,moderately old,0.0,,,750.028552,14.0,250.0
+2815,flat,Prime Habitat,0.27,5432.595573440643,497.0,Carpet area: 497 (46.17 sq.m.),2.0,2.0,1,4.0,North-East,sector 99a,,,,,,new,0.0,,,496.969263,7.0,248.5

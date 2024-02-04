@@ -1,0 +1,1 @@
+1. Needed the latitudes and longitudes of various sectors in Gurgaon to plot a map where I could show the average house prices in each sector using a color gradient and also use bubbles whose size would be determined by the average apartment size in the area. Scraped it from google using Beautiful Soup and requests libraries.
