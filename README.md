@@ -10,6 +10,6 @@ This project is part of the DSMP 1.0 course offered by Campusx. It serves as the
 USAGE:<br>
 To run the Streamlit app locally:<br>
 
-1. Clone the repository: git clone https://github.com/your-username/Gurgaon-Real-Estate-Analyzer.git<br>
+1. Clone the repository
 2. Install dependencies: pip install -r requirements.txt<br>
 3. Run the app: streamlit run app.py<br>
