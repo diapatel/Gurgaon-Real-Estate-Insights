@@ -1,4 +1,4 @@
-GURGAON REAL ESTATE ANALYZER\br
+<b><h2>GURGAON REAL ESTATE ANALYZER</h2></b><br>
 This repository contains a Streamlit app for analyzing Gurgaon real estate. The app is designed with three main features:
 
 1. Price Predictor: Predicts property prices in Gurgaon based on historical data and machine learning models.<br>
